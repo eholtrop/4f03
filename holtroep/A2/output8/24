@@ -1,0 +1,68 @@
+22 process time: 4.921466(s)
+3 process time: 5.059709(s)
+20 process time: 5.165609(s)
+23 process time: 5.263150(s)
+18 process time: 5.421974(s)
+10 process time: 5.541916(s)
+8 process time: 5.674859(s)
+16 process time: 5.674924(s)
+0 process time: 5.787227(s)
+14 process time: 5.897683(s)
+19 process time: 5.933163(s)
+4 process time: 6.084465(s)
+12 process time: 6.166549(s)
+11 process time: 6.136179(s)
+21 process time: 6.317655(s)
+15 process time: 6.334814(s)
+7 process time: 6.464132(s)
+9 process time: 6.451920(s)
+17 process time: 6.569020(s)
+6 process time: 6.528163(s)
+1 process time: 6.654760(s)
+2 process time: 6.656840(s)
+5 process time: 6.754796(s)
+13 process time: 7.256939(s)
+Min Time: 4.921466(s)  Max Time: 7.256939(s)  Largest Gap: 220 
+--- SharcNET Job Epilogue ---
+Job completed successfully.
+               jobid: 608464
+         exit status: 0
+      allocated time: 203.46011
+           user time: 153.72
+         system time: 0.55
+peak rss=232284160; peak vsz=232284160 (bytes)
+atime=203.46011; utime=153.72; stime=0.55; exit=0
+12 process time: 50.618087(s)
+20 process time: 51.717653(s)
+23 process time: 51.932084(s)
+17 process time: 52.092575(s)
+15 process time: 52.874886(s)
+10 process time: 53.513463(s)
+1 process time: 55.264419(s)
+3 process time: 55.744065(s)
+14 process time: 56.136334(s)
+5 process time: 57.490636(s)
+6 process time: 57.789175(s)
+21 process time: 58.576248(s)
+19 process time: 60.444871(s)
+0 process time: 60.467019(s)
+11 process time: 60.582782(s)
+8 process time: 61.116236(s)
+4 process time: 61.190516(s)
+18 process time: 61.285597(s)
+9 process time: 61.403727(s)
+13 process time: 61.711862(s)
+7 process time: 62.364590(s)
+16 process time: 62.635678(s)
+22 process time: 62.803621(s)
+2 process time: 63.026548(s)
+Min Time: 50.618087(s)  Max Time: 63.026548(s)  Largest Gap: 282 
+--- SharcNET Job Epilogue ---
+Job completed successfully.
+               jobid: 608474
+         exit status: 0
+      allocated time: 1544.9881
+           user time: 1431.54
+         system time: 0.48
+peak rss=232587264; peak vsz=232587264 (bytes)
+atime=1544.9881; utime=1431.54; stime=0.48; exit=0

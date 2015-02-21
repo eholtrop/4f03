@@ -1,0 +1,38 @@
+24 process time: 0.045172(s)
+4 process time: 0.048476(s)
+22 process time: 0.057808(s)
+25 process time: 0.045853(s)
+6 process time: 0.049261(s)
+14 process time: 0.059675(s)
+10 process time: 0.060562(s)
+17 process time: 0.060865(s)
+7 process time: 0.060934(s)
+3 process time: 0.061446(s)
+5 process time: 0.061743(s)
+1 process time: 0.062653(s)
+19 process time: 0.063025(s)
+26 process time: 0.046594(s)
+27 process time: 0.054698(s)
+13 process time: 0.059549(s)
+9 process time: 0.062372(s)
+0 process time: 0.064998(s)
+2 process time: 0.061255(s)
+23 process time: 0.055767(s)
+11 process time: 0.055386(s)
+12 process time: 0.056419(s)
+18 process time: 0.059690(s)
+16 process time: 0.059344(s)
+15 process time: 0.060037(s)
+21 process time: 0.060243(s)
+8 process time: 0.054503(s)
+20 process time: 0.054311(s)
+Min Time: 0.045172(s)  Max Time: 0.064998(s)  Largest Gap: 114 
+--- SharcNET Job Epilogue ---
+Job completed successfully.
+               jobid: 608451
+         exit status: 0
+      allocated time: 48.64063
+           user time: 2.25
+         system time: 2.04
+peak rss=269795328; peak vsz=269795328 (bytes)
+atime=48.64063; utime=2.25; stime=2.04; exit=0

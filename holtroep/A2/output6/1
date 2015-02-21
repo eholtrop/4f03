@@ -1,0 +1,11 @@
+0 process time: 1.706604(s)
+Min Time: 1.706604(s)  Max Time: 1.706604(s)  Largest Gap: 114 
+--- SharcNET Job Epilogue ---
+Job completed successfully.
+               jobid: 608443
+         exit status: 0
+      allocated time: 2.1773
+           user time: 1.72
+         system time: 0.01
+peak rss=17088512; peak vsz=17088512 (bytes)
+atime=2.1773; utime=1.72; stime=0.01; exit=0
