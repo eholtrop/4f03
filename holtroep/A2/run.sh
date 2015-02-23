@@ -1,10 +1,3 @@
-sqsub -n 1 -q mpi -r 1h -o output9/1 ./primegap 2 100000000
-sqsub -n 2 -q mpi -r 1h -o output9/2 ./primegap 2 100000000
-sqsub -n 4 -q mpi -r 1h -o output9/4 ./primegap 2 100000000
-sqsub -n 8 -q mpi -r 1h -o output9/8 ./primegap 2 100000000
-sqsub -n 12 -q mpi -r 1h -o output9/12 ./primegap 2 100000000
-sqsub -n 16 -q mpi -r 1h -o output9/16 ./primegap 2 100000000
-sqsub -n 20 -q mpi -r 1h -o output9/20 ./primegap 2 100000000
-sqsub -n 24 -q mpi -r 1h -o output9/24 ./primegap 2 100000000
-sqsub -n 28 -q mpi -r 1h -o output9/28 ./primegap 2 100000000
-sqsub -n 32 -q mpi -r 1h -o output9/32 ./primegap 2 100000000
+sqsub -n 32 -q mpi -r 1h -o bonus/12 ./primegap 2 1000000000000
+sqsub -n 32 -q mpi -r 1h -o bonus/12 ./primegap 2 10000000000000
+sqsub -n 32 -q mpi -r 1h -o bonus/12 ./primegap 2 100000000000000
